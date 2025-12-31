@@ -1,3 +1,7 @@
+## 📌 Project Requirements
+This project is implemented based on the official requirements document:
+👉 **[Click here to view the full requirements](https://docs.google.com/document/d/1yJQ5dOUC3KyCn08pn8l8Joa6RrG-EXtj/edit)**
+ظظ
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +100,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
